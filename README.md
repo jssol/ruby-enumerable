@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> In this project we use a module inside a class.
+> In this project we use a module inside a class
 
 ## Authors
 
